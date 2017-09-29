@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Place de la bière",
+    "proprietaire":{
+        "nom": "delpeche",
+        "prenom" : "Georges",
+        "mail": "delpeche.georges@gmail.com"
+    },
+
+    "openDays" : [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi"
+    ],
+
+    "openHours":{
+      "start":18,
+      "end":21
+    },
+
+    "bieres" : [
+      {
+        "type" : "Brune",
+        "nom" : "Le roi Soleil"
+      }
+    ]
+  },
+
+  {
+    "name": "Chez Jeannot",
+    "proprietaire":{
+      "nom": "William",
+      "prenom" : "Jeannot",
+      "mail": "chezjeannot@gmail.com"
+    },
+
+    "openDays" : [
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi"
+    ],
+
+    "openHours":{
+      "start":10,
+      "end":1
+    },
+
+    "bieres" : [
+      {
+        "type" : "Blonde",
+        "nom" : "Pamela Anderson"
+      }
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+]
